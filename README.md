@@ -6,7 +6,7 @@ We’re really excited by [WebAssembly](https://webassembly.org/) on a server an
 
 Providing just enough glue to allow you to focus on your domain and business logic, Spin simplifies the promise of building event driven architectures.
 
-We want to help you find your footing with Spin and WebAssembly with a fun and effective process that doesn’t require reading, watching, or listening to hours upon hours of content. We built Spin to make things easier, and we want to show you that with our Fermyon Advent or Code.
+We want to help you find your footing with Spin and WebAssembly with a fun and effective process that doesn’t require reading, watching, or listening to hours upon hours of content. We built Spin to make things easier, and we want to show you that with our Fermyon Advent of Code.
 
 While our Advent of Code takes on some characteristics of the original, ours is not meant to test your algorithms, data structures, or mathematical genius; instead, we want to provide you two opportunities each week to spend 30 minutes (or less) writing and deploying your own Spin applications.
 
