@@ -12,6 +12,8 @@ While our Advent of Code takes on some characteristics of the original, ours is 
 
 We’ll update this repository every Monday and Friday in December with a fun scenario for you to learn how to write your first WebAssembly applications.
 
-If you’re unsure of any exercise, our friend David Flanagan (@rawkode) will also stream his solution to each challenge every Monday and Friday too, on [Fermyon TV on YouTube](https://youtube.com/@FermyonTech).
+If you’re unsure of any exercise, our friend David Flanagan (@rawkode) will also stream his solution to each challenge every Monday and Friday too, on the [Fermyon YouTube channel](https://youtube.com/@FermyonTech).
+
+If you want to reach out for any help with the challenges, join us in the [Fermyon Discord](https://discord.gg/AAFNfS7NGf).
 
 We’ll also be providing awards across 6 bespoke categories and your solutions could win you some fantastic prizes, so don’t forget to read the submission guidelines for each challenge and submit your solution.
