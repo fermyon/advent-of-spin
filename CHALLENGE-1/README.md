@@ -29,3 +29,11 @@ Your application must:
 ## Test
 
 You can run our [Hurl](https://hurl.dev) test suite with `make test`. Ensure you have `hurl` installed.
+
+## Submit
+
+Enter your Fermyon Cloud endpoint as serviceUrl below and run the command
+
+```shell
+hurl --variable serviceUrl="" submit.hurl
+```
