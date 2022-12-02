@@ -19,7 +19,7 @@ Let’s change that by deploying our first JSON Hello World! API endpoint.
 
 You can write your application in ANY language that compiles to WebAssembly. Though to skip the boilerplate, use `spin new` and use one of our language templates.
 
-If you want to use a language not provided by `spin new`, you can join us in the Discord for setup assistance.
+If you want to use a language not provided by `spin new`, you can join us in the Ferymon [Discord](https://discord.gg/AAFNfS7NGf) for setup assistance.
 
 Your application must:
 
