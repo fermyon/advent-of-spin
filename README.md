@@ -2,7 +2,7 @@
 
 We understand that learning a new technology can be a little daunting, as there’s a lot of buzz around many new technologies and it can be hard to understand which deserve your attention.
 
-We’re really excited by [WebAssembly](https://webassembly.org/) on a server and believe that writing your micro-services as [Spin](https://github.com/fermyon/spin) components provides a developer experience, locally and in the cloud, that far surpasses what we’ve become accustomed too over the last decade. 
+We’re really excited by [WebAssembly](https://webassembly.org/) on a server and believe that writing your micro-services as [Spin](https://github.com/fermyon/spin) components provides a developer experience, locally and in the cloud, that far surpasses what we’ve become accustomed too over the last decade.
 
 Providing just enough glue to allow you to focus on your domain and business logic, Spin simplifies the promise of building event driven architectures.
 
@@ -15,3 +15,10 @@ We’ll update this repository every Monday and Friday in December with a fun sc
 If you’re unsure of any exercise, our friend David Flanagan (@rawkode) will also stream his solution to each challenge every Monday and Friday too, on [Fermyon TV on YouTube](https://youtube.com/@FermyonTech).
 
 We’ll also be providing awards across 6 bespoke categories and your solutions could win you some fantastic prizes, so don’t forget to read the submission guidelines for each challenge and submit your solution.
+
+## Challenges
+
+Challenges will be added every Monday and Friday morning (9am CET)
+
+- [Challenge 1](./CHALLENGE-1/README.md)
+- Challenge 2: Coming December 5th, 9am CET
