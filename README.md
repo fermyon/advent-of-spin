@@ -8,7 +8,7 @@ Providing just enough glue to allow you to focus on your domain and business log
 
 We want to help you find your footing with Spin and WebAssembly with a fun and effective process that doesn’t require reading, watching, or listening to hours upon hours of content. We built Spin to make things easier, and we want to show you that with our Fermyon's Advent of Spin.
 
-While our Advent of Spin takes on some characteristics of [Advent of Code](https://adventofcode.com), ours is not meant to test your algorithms, data structures, or mathematical genius; instead, we want to provide you two opportunities each week to spend 30 minutes (or less) writing and deploying your own Spin applications.
+While our Advent of Spin takes on some characteristics of [Advent of Code](https://adventofcode.com/), ours is not meant to test your algorithms, data structures, or mathematical genius; instead, we want to provide you two opportunities each week to spend 30 minutes (or less) writing and deploying your own Spin applications.
 
 We’ll update this repository every Monday and Friday in December with a fun scenario for you to learn how to write your first WebAssembly applications.
 
