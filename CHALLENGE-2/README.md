@@ -19,7 +19,11 @@ If you want to use a language not provided by `spin new`, you can join us in the
 
 Your application must:
 
-- Endpoint: `/hello/*`
+- Expose an endpoint: `/lowercase`
+  - Set a `Content-Type: application/json` header in the response
+  - Accept a `POST` request with a JSON body containing a `value` property
+  - Return the payload `{ message: lowercase_string_of_value }`
+- Expose an endpoint: `/hello/*`
   - Set a `Content-Type: application/json` header in the response
   - Respond with a JSON payload. The JSON must have the key "message" with the value "Hello, world!"
   - When an extra segment of the path is available, example `/hello/RaWkOdE`, you must respond with that parameter in lower-case: "Hello, rawkode!"
