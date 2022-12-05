@@ -19,6 +19,7 @@ If you want to use a language not provided by `spin new`, you can join us in the
 
 Your application must:
 
+- Return HTTP 404 on `/`
 - Expose an endpoint: `/lowercase`
   - Set a `Content-Type: application/json` header in the response
   - Accept a `POST` request with a JSON body containing a `value` property
