@@ -21,4 +21,5 @@ We’ll also be providing awards across 6 bespoke categories and your solutions 
 Challenges will be added every Monday and Friday morning (9am CET)
 
 - [Challenge 1](./CHALLENGE-1/README.md)
-- Challenge 2: Coming December 5th, 9am CET
+- [Challenge 2](./CHALLENGE-2/README.md)
+- Challenge 2: Coming December 9th, 10am CET
