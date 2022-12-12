@@ -2,7 +2,7 @@
 
 Welcome to challenge four of Fermyon’s Advent of Spin!
 
-This second challenge won't introduce you to any new concepts or SDKs, but we don't want to solidify the mindset that working with WebAssembly as a target, using your existing languages and toolchains, mean you can leverage those mature eco-systems of packages and examples.
+This fourth challenge won't introduce you to any new concepts or SDKs, but we don't want to solidify the mindset that working with WebAssembly as a target, using your existing languages and toolchains, mean you can leverage those mature eco-systems of packages and examples.
 
 This challenge is to help the elves write their first utility for Santa's big round the world trip. They need a service that can detect the distance between two points, as described by longitude and latitude coordinates.
 
@@ -11,8 +11,9 @@ This challenge is to help the elves write their first utility for Santa's big ro
 
 Add a new service to your Spin application that can calculate the distance between two lat/long coordinates. The distance will be calculated in nautical miles, rounded to the closest .1 mile.
 
-- 33.94nm == 34nm
-- 33.44nm == 33nm
+- 33.76nm == 33.8nm
+- 33.94nm == 33.9nm
+- 33.44nm == 33.4nm
 
 As always, if you need any assistance, you can join us in the Ferymon [Discord](https://discord.gg/AAFNfS7NGf).
 
