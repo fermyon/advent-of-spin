@@ -9,6 +9,8 @@ This challenge is to help the elves write their first utility for Santa's big ro
 
 ## Spec
 
+**Note:** Haversine formula has been used on the verifier to calculate the distance between two points.
+
 Add a new service to your Spin application that can calculate the distance between two lat/long coordinates. The distance will be calculated in nautical miles, rounded to the closest .1 mile.
 
 - 33.76nm == 33.8nm
