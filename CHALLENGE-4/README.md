@@ -4,6 +4,8 @@ Welcome to challenge four of Fermyon’s Advent of Spin!
 
 This fourth challenge won't introduce you to any new concepts or SDKs, but we don't want to solidify the mindset that working with WebAssembly as a target, using your existing languages and toolchains, mean you can leverage those mature eco-systems of packages and examples.
 
+**Note**: Our backend uses existing crates for calculating the distance and converting to nautical miles. Don't over-think this one.
+
 This challenge is to help the elves write their first utility for Santa's big round the world trip. They need a service that can detect the distance between two points, as described by longitude and latitude coordinates.
 
 
