@@ -2,7 +2,7 @@
 
 Welcome to challenge three of Fermyon’s Advent of Spin!
 
-This second challenge will introduce you to:
+This third challenge will introduce you to:
 
 - Bartholomew
 
