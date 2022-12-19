@@ -26,4 +26,4 @@ Challenges will be added every Monday and Friday morning (9am CET)
 - [Challenge 4](./CHALLENGE-4/README.md)
 - [Challenge 5](./CHALLENGE-5/README.md)
 - [Challenge 6](./CHALLENGE-6/README.md)
-- Challenge 7: Monday, Dec 23rd 😊
+- Challenge 7: Friday, Dec 23rd 😊
