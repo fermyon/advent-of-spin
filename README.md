@@ -26,4 +26,10 @@ Challenges will be added every Monday and Friday morning (9am CET)
 - [Challenge 4](./CHALLENGE-4/README.md)
 - [Challenge 5](./CHALLENGE-5/README.md)
 - [Challenge 6](./CHALLENGE-6/README.md)
-- Challenge 7: Friday, Dec 23rd 😊
+- [Challenge 7](./CHALLENGE-7/README.md)
+
+## Prizes
+
+We'll be announcing prizes and winners throughout January. More details in the first week of the New Year.
+
+We hope you've enoyed these challenges and we'll be live streaming more solutions from January 4th.
