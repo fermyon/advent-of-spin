@@ -8,28 +8,34 @@ Providing just enough glue to allow you to focus on your domain and business log
 
 We want to help you find your footing with Spin and WebAssembly with a fun and effective process that doesn’t require reading, watching, or listening to hours upon hours of content. We built Spin to make things easier, and we want to show you that with our Fermyon's Advent of Spin.
 
-While our Advent of Spin takes on some characteristics of [Advent of Code](https://adventofcode.com/), ours is not meant to test your algorithms, data structures, or mathematical genius; instead, we want to provide you two opportunities each week to spend 30 minutes (or less) writing and deploying your own Spin applications.
+While our Advent of Spin takes on some characteristics of [Advent of Code](https://adventofcode.com/), ours is not meant to test your algorithms, data structures, or mathematical genius; instead, we want to provide you the opportunity each week to spend a litte bit of time writing and deploying your own Spin applications.
 
-We’ll update this repository every Monday and Friday in December with a fun scenario for you to learn how to write your first WebAssembly applications.
+We’ll update this repository every Tuesday in December with a fun scenario for you to learn how to write your first WebAssembly applications.
 
-If you’re unsure of any exercise, our friend David Flanagan (@rawkode) will also stream his solution to each challenge every Monday and Friday too, on [Fermyon TV on YouTube](https://youtube.com/@FermyonTech).
+If you’re unsure of any exercise, we will go over a solution and present next weeks challenge in our weekly Live Code Tuesday on [YouTube](https://youtube.com/@FermyonTech).
 
-We’ll also be providing awards across 6 bespoke categories and your solutions could win you some fantastic prizes, so don’t forget to read the submission guidelines for each challenge and submit your solution.
+We’ll also be providing awards for across a few bespoke categories and your solutions could win you some fantastic swag, so don’t forget to read the submission guidelines for each challenge and submit your solution.
 
 ## Challenges
 
-Challenges will be added every Monday and Friday morning (9am CET)
+Challenges will be added every Tuesday during our Live Code Tuesday at 17:00CET 
 
-- [Challenge 1](./CHALLENGE-1/README.md)
-- [Challenge 2](./CHALLENGE-2/README.md)
-- [Challenge 3](./CHALLENGE-3/README.md)
-- [Challenge 4](./CHALLENGE-4/README.md)
-- [Challenge 5](./CHALLENGE-5/README.md)
-- [Challenge 6](./CHALLENGE-6/README.md)
-- [Challenge 7](./CHALLENGE-7/README.md)
+- Challenge 1 - TBA
+- Challenge 2 - TBA
+- Challenge 3 - TBA
+- Challenge 4 - TBA
 
-## Prizes
+## Prior years challenges
 
-We'll be announcing prizes and winners throughout January. More details in the first week of the New Year.
+### Advent of Spin 2022
 
-We hope you've enoyed these challenges and we'll be live streaming more solutions from January 4th.
+These challenges can still be used, and the validation endpoint is still valid.
+
+- [Challenge 1](./2022/CHALLENGE-1/README.md)
+- [Challenge 2](./2022/CHALLENGE-2/README.md)
+- [Challenge 3](./2022/CHALLENGE-3/README.md)
+- [Challenge 4](./2022/CHALLENGE-4/README.md)
+- [Challenge 5](./2022/CHALLENGE-5/README.md)
+- [Challenge 6](./2022/CHALLENGE-6/README.md)
+- [Challenge 7](./2022/CHALLENGE-7/README.md)
+

@@ -1,4 +1,4 @@
-POST https://advent-of-spin-backend-tlrr40nq.fermyon.app/c2
+POST https://advent-of-spin-2022.fermyon.app/c2
 {
   "serviceUrl": "{{serviceUrl}}"
 }
