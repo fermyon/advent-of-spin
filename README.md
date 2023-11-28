@@ -1,35 +1,56 @@
 # Fermyon Advent of Spin
 
-We understand that learning a new technology can be a little daunting, as there’s a lot of buzz around many new technologies and it can be hard to understand which deserve your attention.
+**'Tis the season to learn something new.** 🎄
 
-We’re really excited by [WebAssembly](https://webassembly.org/) on a server and believe that writing your micro-services as [Spin](https://github.com/fermyon/spin) components provides a developer experience, locally and in the cloud, that far surpasses what we’ve become accustomed too over the last decade.
+Learning a new technology is fun but can sometimes be a little daunting. The technology we’re really excited abuit is serverside [WebAssembly](https://webassembly.org/) and believe that Wasm will power the next wave of cloud computing. 
+[Spin](https://github.com/fermyon/spin) is an open-source framework for building and running serverless applications powered by WebAssembly. 
 
-Providing just enough glue to allow you to focus on your domain and business logic, Spin simplifies the promise of building event driven architectures.
+We built Spin to make the developer experience easier, and we want to show you this through Fermyon's Advent of Spin. You will be presented with fun coding challenges that'll help you find your footing with Spin and WebAssembly. Whether you’re a newcomer to this whole serverless apps thing or a seasoned Spin developer, these challenges will provide your brain with a stimulating little project each week.
 
-We want to help you find your footing with Spin and WebAssembly with a fun and effective process that doesn’t require reading, watching, or listening to hours upon hours of content. We built Spin to make things easier, and we want to show you that with our Fermyon's Advent of Spin.
+While our Advent of Spin takes on some characteristics of [Advent of Code](https://adventofcode.com/), ours is not meant to test your algorithms, data structures, or mathematical acumen. Instead, we want to provide you the opportunity to write and deploy your own cool Spin applications every week.
 
-While our Advent of Spin takes on some characteristics of [Advent of Code](https://adventofcode.com/), ours is not meant to test your algorithms, data structures, or mathematical genius; instead, we want to provide you the opportunity each week to spend a litte bit of time writing and deploying your own Spin applications.
+We’ll update this repository every Tuesday in December with a fun scenario for you to learn how to write WebAssembly applications. And yes, the challenges will encompass everything from simple static sites, to using Large Language Models and AI. 
 
-We’ll update this repository every Tuesday in December with a fun scenario for you to learn how to write your first WebAssembly applications.
+If you’re unsure of any exercise, we will go over a solution and present next weeks challenge in our weekly Live Code Tuesday on [YouTube](https://www.youtube.com/@fermyontech/streams).
 
-If you’re unsure of any exercise, we will go over a solution and present next weeks challenge in our weekly Live Code Tuesday on [YouTube](https://youtube.com/@FermyonTech).
+## How Do I Participate?
 
-We’ll also be providing awards for across a few bespoke categories and your solutions could win you some fantastic swag, so don’t forget to read the submission guidelines for each challenge and submit your solution.
+Simply click on each challenge, and follow the instructions. 
 
 ## Challenges
 
 Challenges will be added every Tuesday during our Live Code Tuesday at 17:00CET 
 
-- [Challenge 1](./2023/Challenge-1/README.md)
-- Challenge 2 - TBA
-- Challenge 3 - TBA
+- [Challenge 1](./2023/Challenge-1/README.md) - [Livestream here](https://www.youtube.com/watch?v=WqltnlpguOY)
+- Challenge 2 - TBA - [Livestream here](https://www.youtube.com/watch?v=9XAjwWmMBFU)
+- Challenge 3 - TBA - [Livestream here](https://www.youtube.com/watch?v=p9tl8K5TeiI)
 - Challenge 4 - TBA
+
+## Prizes
+
+Oh and there are prizes for each coding challenge! We have awards for few bespoke categories and your solutions could win you some fantastic swag, so don’t forget to read the submission guidelines for each challenge and submit your solution.
+
+## Pre-Requisites
+
+To particiapte you need to have the following installed:
+
+- [Spin](https://developer.fermyon.com/spin/v2/quickstart)
+- [Hurl](https://hurl.dev/docs/installation.html)
+- A [Fermyon Cloud](https://cloud.fermyon.com) account (it's free!)
+
+## Nobody Must Code Alone!
+
+We’re all around in the [Fermyon Discord server](https://www.fermyon.com/discord). Come hang out, ask questions, and help others out as we work through the season’s challenges. This is a great opportunity to meet others in the community as well as the engineers behind the Spin project and Fermyon Cloud.
+
+We’ll also post on [X/Twitter](https://twitter.com/fermyontech) and [LinkedIn](https://www.linkedin.com/company/fermyon), dropping some helpful resources and videos.
+
+Yes, the main goal of Advent of Spin is to get you solving problems and winning prizes. But we also hope that you’ll find inspiration in these projects to build something on your own. If that inspiration happens to strike, let us know. We love hearing about the amazing things you build!
 
 ## Prior years challenges
 
 ### Advent of Spin 2022
 
-These challenges can still be used, and the validation endpoint is still valid.
+Want practie for this year's challenge? Try out last year's challenges and let us know what you think. The validation endpoint is still valid.
 
 - [Challenge 1](./2022/CHALLENGE-1/README.md)
 - [Challenge 2](./2022/CHALLENGE-2/README.md)
