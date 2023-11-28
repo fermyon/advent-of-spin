@@ -35,5 +35,5 @@ You can run our [Hurl](https://hurl.dev) test suite with `make test`. Ensure you
 Enter your Fermyon Cloud endpoint as serviceUrl below and run the command
 
 ```shell
-hurl -error-format long --variable serviceUrl="" submit.hurl
+hurl --error-format long --variable serviceUrl="" submit.hurl
 ```

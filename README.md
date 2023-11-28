@@ -20,7 +20,7 @@ We’ll also be providing awards for across a few bespoke categories and your so
 
 Challenges will be added every Tuesday during our Live Code Tuesday at 17:00CET 
 
-- Challenge 1 - TBA
+- [Challenge 1](./2023/Challenge-1/README.md)
 - Challenge 2 - TBA
 - Challenge 3 - TBA
 - Challenge 4 - TBA
