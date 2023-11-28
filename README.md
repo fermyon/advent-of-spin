@@ -50,7 +50,7 @@ Yes, the main goal of Advent of Spin is to get you solving problems and winning 
 
 ### Advent of Spin 2022
 
-Want practie for this year's challenge? Try out last year's challenges and let us know what you think. The validation endpoint is still valid.
+Want practice for this year's challenge? Try out last year's challenges and let us know what you think. The validation endpoint is still valid.
 
 - [Challenge 1](./2022/CHALLENGE-1/README.md)
 - [Challenge 2](./2022/CHALLENGE-2/README.md)
