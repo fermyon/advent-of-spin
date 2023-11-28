@@ -28,7 +28,14 @@ Challenges will be added every Tuesday during our Live Code Tuesday at 17:00CET
 
 ## Prizes
 
-Oh and there are prizes for each coding challenge! We have awards for few bespoke categories and your solutions could win you some fantastic swag, so don’t forget to read the submission guidelines for each challenge and submit your solution.
+Oh and there are fantastic prizes for everyone who completes each coding challenge! 
+
+- Challenge 1 - Spin denim tote bag
+- Challenge 2 - TBA
+- Challenge 3 - TBA
+- Challenge 4 - TBA
+
+We'll also have awards for a few bespoke categories, too! Make sure to read the submission guidelines for each challenge and submit your solution to this [Typeform page](https://fibsu0jcu2g.typeform.com/to/gkqwYEqG) for each challenge.
 
 ## Pre-Requisites
 
