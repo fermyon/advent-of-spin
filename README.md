@@ -22,7 +22,7 @@ Simply click on each challenge, and follow the instructions.
 Challenges will be added every Tuesday during our Live Code Tuesday at 17:00CET 
 
 - [Challenge 1](./2023/Challenge-1/README.md) - [Livestream here](https://www.youtube.com/watch?v=WqltnlpguOY)
-- Challenge 2 - TBA - [Livestream here](https://www.youtube.com/watch?v=9XAjwWmMBFU)
+- Challenge 2 - Coming soon! [Livestream here](https://www.youtube.com/watch?v=9XAjwWmMBFU)
 - Challenge 3 - TBA - [Livestream here](https://www.youtube.com/watch?v=p9tl8K5TeiI)
 - Challenge 4 - TBA
 
@@ -30,10 +30,12 @@ Challenges will be added every Tuesday during our Live Code Tuesday at 17:00CET
 
 Oh and there are fantastic prizes for everyone who completes each coding challenge! 
 
-- Challenge 1 - Spin denim tote bag
-- Challenge 2 - TBA
-- Challenge 3 - TBA
-- Challenge 4 - TBA
+- Challenge 1 - A special Spin denim tote bag
+- Challenge 2 - Phippy's Field Guide to Wasm
+- Challenge 3 - Limited edition Fermyon Fanny Pack
+- Challenge 4 - Exclusive Fermyon Beanie
+
+![advent-of-spin-2023-prizes](/static/advent-of-spin-2023-prizes.png.jpg)
 
 We'll also have awards for a few bespoke categories, too! Make sure to read the submission guidelines for each challenge and submit your solution to this [Typeform page](https://fibsu0jcu2g.typeform.com/to/gkqwYEqG) for each challenge.
 
