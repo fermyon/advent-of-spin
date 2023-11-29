@@ -35,7 +35,7 @@ Oh and there are fantastic prizes for everyone who completes each coding challen
 - Challenge 3 - Limited edition Fermyon Fanny Pack
 - Challenge 4 - Exclusive Fermyon Beanie
 
-![advent-of-spin-2023-prizes](/static/advent-of-spin-2023-prizes.png.jpg)
+![advent-of-spin-2023-prizes](/static/advent-of-spin-2023-prizes.png)
 
 We'll also have awards for a few bespoke categories, too! Make sure to read the submission guidelines for each challenge and submit your solution to this [Typeform page](https://fibsu0jcu2g.typeform.com/to/gkqwYEqG) for each challenge.
 
