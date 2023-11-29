@@ -47,7 +47,7 @@ To particiapte you need to have the following installed:
 - [Hurl](https://hurl.dev/docs/installation.html)
 - A [Fermyon Cloud](https://cloud.fermyon.com) account (it's free!)
 
-## Nobody Must Code Alone!
+## Nobody Must Code Alone! 
 
 We’re all around in the [Fermyon Discord server](https://www.fermyon.com/discord). Come hang out, ask questions, and help others out as we work through the season’s challenges. This is a great opportunity to meet others in the community as well as the engineers behind the Spin project and Fermyon Cloud.
 
