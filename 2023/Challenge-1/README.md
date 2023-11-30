@@ -58,7 +58,9 @@ Once the application is deployed, enter the endpoint as serviceUrl below and run
 hurl --error-format long --variable serviceUrl="https://x-mas.fermyon.app" submit.hurl
 ```
 
-After the submission, Matt's wish list should be stored in your applications Key-Value store. Go check out what Matt wants for Christmas! 
+After the submission, Matt's wish list should be stored in your applications Key-Value store. Go check out what Matt wants for Christmas!
+
+And remember, if you wawnt to participate in the swag award, go [here](../../README.md#Prizes) and check out how to participate.
 
 ## Nobody Must Code Alone!
 
