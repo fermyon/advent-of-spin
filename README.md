@@ -37,6 +37,8 @@ Oh and there are fantastic prizes for everyone who completes each coding challen
 
 We'll also have awards for a few bespoke categories, too! Make sure to read the submission guidelines for each challenge and submit your solution to this [Typeform page](https://fibsu0jcu2g.typeform.com/to/gkqwYEqG) for each challenge.
 
+![Image of the prizes. A spin denim tote bag, Phippy's Field Guide to Wasm trail map puzzle set, A Fermyon Fanny Pack, and A Fermyon beanie](./assets/Advent%20of%20Spin%202023%20Prizes.png)
+
 ## Pre-Requisites
 
 To particiapte you need to have the following installed:
