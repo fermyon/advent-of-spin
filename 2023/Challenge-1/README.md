@@ -50,12 +50,12 @@ You can run our [Hurl](https://hurl.dev) test suite with `hurl --test test.hurl`
 
 ## Submit
 
-Once the application is deployed, enter the endpoint as serviceUrl below and run the command - e.g., `x-mas.fermyon.app`
+Once the application is deployed, enter the endpoint as serviceUrl below and run the command - e.g., `https://x-mas.fermyon.app`
 
 > Note: Do not add a trailing `/` to the serviceUrl.
 
 ```shell
-hurl --error-format long --variable serviceUrl="x-mas.fermyon.app" submit.hurl
+hurl --error-format long --variable serviceUrl="https://x-mas.fermyon.app" submit.hurl
 ```
 
 After the submission, Matt's wish list should be stored in your applications Key-Value store. Go check out what Matt wants for Christmas! 
