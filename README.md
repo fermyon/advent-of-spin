@@ -41,7 +41,7 @@ We'll also have awards for a few bespoke categories, too! Make sure to read the 
 
 ## Pre-Requisites
 
-To particiapte you need to have the following installed:
+To participate you need to have the following installed:
 
 - [Spin](https://developer.fermyon.com/spin/v2/quickstart)
 - [Hurl](https://hurl.dev/docs/installation.html)
