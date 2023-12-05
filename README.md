@@ -35,11 +35,9 @@ Oh and there are fantastic prizes for everyone who completes each coding challen
 - Challenge 3 - Limited edition Fermyon Fanny Pack
 - Challenge 4 - Exclusive Fermyon Beanie
 
-![advent-of-spin-2023-prizes](/static/advent-of-spin-2023-prizes.png)
+![Image of the prizes. A spin denim tote bag, Phippy's Field Guide to Wasm trail map puzzle set, A Fermyon Fanny Pack, and A Fermyon beanie](/static/advent-of-spin-2023-prizes.png)
 
 We'll also have awards for a few bespoke categories, too! Make sure to read the submission guidelines for each challenge and submit your solution to this [Typeform page](https://fibsu0jcu2g.typeform.com/to/gkqwYEqG) for each challenge. If hyperlink doesn't work, please enter https://fibsu0jcu2g.typeform.com/adventofspin23 directly in your browser in a new tab.
-
-![Image of the prizes. A spin denim tote bag, Phippy's Field Guide to Wasm trail map puzzle set, A Fermyon Fanny Pack, and A Fermyon beanie](./assets/Advent%20of%20Spin%202023%20Prizes.png)
 
 ## Pre-Requisites
 
