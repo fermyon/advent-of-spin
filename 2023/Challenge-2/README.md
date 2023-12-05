@@ -58,7 +58,7 @@ hurl --error-format long --variable serviceUrl="https://x-mas.fermyon.app" submi
 
 After the submission, Matt's wish list should be stored in your applications Key-Value store. Go check out what Matt wants for Christmas!
 
-And remember, if you wawnt to participate in the swag award, go [here](../../README.md#Prizes) and check out how to participate.
+And remember, if you want to participate in the swag award, go [here](../../README.md#Prizes) and check out how to participate.
 
 ## Nobody Must Code Alone!
 
