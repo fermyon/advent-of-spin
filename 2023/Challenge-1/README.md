@@ -10,7 +10,7 @@ This first challenge will introduce you to:
 - Deploying your first application to Cloud (or somewhere else publicly available)
 - The Advent of Spin test harness and submission process
 
-If this is your first time with Spin, [Challenge 1 from 2022](../../2022/CHALLENGE-1/README.md), is the perfect introduction to this yearly challenge. 
+If this is your first time with Spin, [Challenge 1 from 2022](../../2022/CHALLENGE-1/README.md), is the perfect introduction to this yearly challenge.
 
 This year the stakes are higher, and the challenges...more challenging. The Fermyon elves have decided to help Santa use Serverless WebAssembly for Santa's new web application. Your task is to help the elves get the project up and running before Christmas Eve.
 
@@ -22,31 +22,36 @@ You can write your application in ANY language that compiles to WebAssembly. To 
 
 Your application must:
 
-- Have a front-end hosted on `/index.html`. The elves will check if an `index.html` file exists in the root of you application, and will take a screenshot to show Santa. Santa likes pretty things, especially pictures of animals, landscapes, or anything that has the Christmas spirit 🎄 
+- Have a front-end hosted on `/index.html`. The elves will check if an `index.html` file exists in the root of your application, and will take a screenshot to show Santa. Santa likes pretty things, especially pictures of animals, landscapes, or anything that has the Christmas spirit 🎄
 
-- The application also has to help Santa and the elves remember what presents to hand out. So the application need to be able to store Matt's (Head-Elf at Fermyon) top-three wishes. You'll have to implement an endpoint at `/data`. The endpoint must support two HTTP methods: POST and GET.🎅
+- The application also has to help Santa and the elves remember what presents to hand out. So the application needs to be able to store Matt's (Head-Elf at Fermyon) top-three wishes. You'll have to implement an endpoint at `/data`. The endpoint must support two HTTP methods: POST and GET.🎅
 
-- The elves will call `/data?advent` - using `advent` as the key for Matt's wishlist. 🎁 
+- The elves will call `/data?advent` - using `advent` as the key for Matt's wishlist. 🎁
 
 The body of the POST call to `/data?advent` will contain a JSON object which can look like this:
+
 ```JSON
 {
     "value": "<Matt's automated wishlist>"
 }
 ```
+
 - When posting, the elves expect an HTTP status code `201` to be returned.
 - The elves will then call `/data?advent` once again using the HTTP GET method, and expect to see the wishlist items they just posted.
+
 - This time the elves expect an HTTP status code of 200, and a body looking like this:
+
 ```JSON
 {
     "value": "<Matt's automated wishlist>"
 }
 ```
-- Also the header in the response should contain `Content-Type: application/json` 
+
+- Also the header in the response should contain `Content-Type: application/json`
 
 ## Test
 
-You can run our [Hurl](https://hurl.dev) test suite with `hurl --test test.hurl`, which will carry out tests, similar to what the elves will use you application for, when you submit it. Ensure you have `hurl` [installed](https://hurl.dev/docs/installation.html).
+You can run our [Hurl](https://hurl.dev) test suite with `hurl --test test.hurl`, which will carry out tests, similar to what the elves will use your application for, when you submit it. Ensure you have `hurl` [installed](https://hurl.dev/docs/installation.html).
 
 ## Submit
 
@@ -60,7 +65,7 @@ hurl --error-format long --variable serviceUrl="https://x-mas.fermyon.app" submi
 
 After the submission, Matt's wish list should be stored in your applications Key-Value store. Go check out what Matt wants for Christmas!
 
-And remember, if you wawnt to participate in the swag award, go [here](../../README.md#Prizes) and check out how to participate.
+And remember, if you want to participate in the swag award, go [here](../../README.md#Prizes) and check out how to participate.
 
 ## Nobody Must Code Alone!
 

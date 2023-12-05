@@ -2,7 +2,7 @@
 
 **'Tis the season to learn something new.** 🎄
 
-Learning a new technology is fun but can sometimes be a little daunting. The technology we’re really excited abuit is serverside [WebAssembly](https://webassembly.org/) and believe that Wasm will power the next wave of cloud computing. 
+Learning a new technology is fun but can sometimes be a little daunting. The technology we’re really excited about is serverside [WebAssembly](https://webassembly.org/) and believe that Wasm will power the next wave of cloud computing. 
 [Spin](https://github.com/fermyon/spin) is an open-source framework for building and running serverless applications powered by WebAssembly. 
 
 We built Spin to make the developer experience easier, and we want to show you this through Fermyon's Advent of Spin. You will be presented with fun coding challenges that'll help you find your footing with Spin and WebAssembly. Whether you’re a newcomer to this whole serverless apps thing or a seasoned Spin developer, these challenges will provide your brain with a stimulating little project each week.
@@ -30,18 +30,18 @@ Challenges will be added every Tuesday during our Live Code Tuesday at 17:00CET
 
 Oh and there are fantastic prizes for everyone who completes each coding challenge! 
 
-- Challenge 1 - Spin denim tote bag
-- Challenge 2 - TBA
-- Challenge 3 - TBA
-- Challenge 4 - TBA
+- Challenge 1 - A special Spin denim tote bag
+- Challenge 2 - Phippy's Field Guide to Wasm
+- Challenge 3 - Limited edition Fermyon Fanny Pack
+- Challenge 4 - Exclusive Fermyon Beanie
+
+![Image of the prizes. A spin denim tote bag, Phippy's Field Guide to Wasm trail map puzzle set, A Fermyon Fanny Pack, and A Fermyon beanie](/static/advent-of-spin-2023-prizes.png)
 
 We'll also have awards for a few bespoke categories, too! Make sure to read the submission guidelines for each challenge and submit your solution to this [Typeform page](https://fibsu0jcu2g.typeform.com/to/gkqwYEqG) for each challenge. If hyperlink doesn't work, please enter https://fibsu0jcu2g.typeform.com/adventofspin23 directly in your browser in a new tab.
 
-![Image of the prizes. A spin denim tote bag, Phippy's Field Guide to Wasm trail map puzzle set, A Fermyon Fanny Pack, and A Fermyon beanie](./assets/Advent%20of%20Spin%202023%20Prizes.png)
-
 ## Pre-Requisites
 
-To particiapte you need to have the following installed:
+To participate you need to have the following installed:
 
 - [Spin](https://developer.fermyon.com/spin/v2/quickstart)
 - [Hurl](https://hurl.dev/docs/installation.html)
