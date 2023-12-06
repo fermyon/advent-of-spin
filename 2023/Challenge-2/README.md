@@ -37,7 +37,7 @@ Capacity is the weight that sleigh can carry (excluding Santa 🎅🏻)
 - When posting, the elves expect an HTTP status code `200` to be returned. With a body detailing how many kids can be reached given the data set prvided:
 ```JSON
 {
-    "kids": 20
+    "kids": 18
 }
 ```
 - Also the header in the response should contain `Content-Type: application/json` 
