@@ -18,7 +18,7 @@ The elves will hang out in the Fermyon [Discord](https://discord.gg/AAFNfS7NGf) 
 
 ## Spec
 
-This time around, the elves need to help Santa prepare for his travel around the world with all of his presents. Now, we're all used to seeing Santa taking off in his sleigh with a huge sack of presents. But we all know that it's absolutely impossible for all of the presents to be handed out to children around the world, can fit in one load! So in reality, Santa obviously have to make multiple trips, but it's time consuming and the elves really want to help optimize the number of kids, Santa can reach on each trip. Now travel time is not an issue for Santa, with his hypersonic raindeers, so the main thing to consider is how do the elves load the sleigh, optimizing for the number of kids to reach, given the combined weight of presents to a single house, and the sleighs capacity.
+This time around, the elves need to help Santa prepare for his travel around the world with all of his presents. Now, we're all used to seeing Santa taking off in his sleigh with a huge sack of presents. But we all know that it's absolutely impossible for all of the presents to be handed out to children around the world, can fit in one load! So in reality, Santa obviously has to make multiple trips, but it's time consuming and the elves really want to help optimize the number of kids, Santa can reach on each trip. Now travel time is not an issue for Santa, with his hypersonic raindeers, so the main thing to consider is how do the elves load the sleigh, optimizing for the number of kids to reach, given the combined weight of presents to a single house, and the sleighs capacity.
 
 You can write your application in ANY language that compiles to WebAssembly. To skip the boilerplate, use `spin new` and use one of our language templates.
 
@@ -34,7 +34,7 @@ The body of the POST call to `/` will contain a JSON object which can look like 
 ```
 Capacity is the weight that sleigh can carry (excluding Santa 🎅🏻)
 
-- When posting, the elves expect an HTTP status code `200` to be returned. With a body detailing how many kids can be reached given the data set prvided:
+- When posting, the elves expect an HTTP status code `200` to be returned. With a body detailing how many kids can be reached given the data set provided:
 ```JSON
 {
     "kids": 18
@@ -55,10 +55,7 @@ Once the application is deployed, enter the endpoint as serviceUrl below and run
 ```shell
 hurl --error-format long --variable serviceUrl="https://x-mas.fermyon.app" submit.hurl
 ```
-
-After the submission, Matt's wish list should be stored in your applications Key-Value store. Go check out what Matt wants for Christmas!
-
-And remember, if you want to participate in the swag award, go [here](../../README.md#Prizes) and check out how to participate.
+Remember, if you want to participate in the swag award, go [here](../../README.md#Prizes) and check out how to participate.
 
 ## Nobody Must Code Alone!
 
