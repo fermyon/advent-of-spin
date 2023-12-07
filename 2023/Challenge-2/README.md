@@ -40,7 +40,9 @@ Capacity is the weight that sleigh can carry (excluding Santa 🎅🏻)
     "kids": 18
 }
 ```
-- Also the header in the response should contain `Content-Type: application/json` 
+- Also the header in the response should contain `Content-Type: application/json`
+
+> Note: The above data is an example, the data used when submitting will be different values, and length of arrays. But NOT huge! :-)
 
 ## Test
 
