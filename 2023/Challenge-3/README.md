@@ -38,7 +38,7 @@ There are no requirements as to how long or short the story can be.
 - When posting, the elves expect an HTTP status code `200` to be returned. With the following body:
 ```JSON
 {
-    "story": "Once upon a time..."
+    "story": "<YOUR STORY HERE>"
 }
 ```
 - Also the header in the response should contain `Content-Type: application/json`
