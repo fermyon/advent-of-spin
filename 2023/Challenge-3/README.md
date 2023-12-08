@@ -35,7 +35,7 @@ The elves will POST to `/` with a JSON object like this (sample data):
 
 There are no requirements as to how long or short the story can be.
 
-- When posting, the elves expect an HTTP status code `200` to be returned. With a body detailing how many kids can be reached given the data set provided:
+- When posting, the elves expect an HTTP status code `200` to be returned. With the following body:
 ```JSON
 {
     "story": "Once upon a time..."
