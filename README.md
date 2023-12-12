@@ -23,7 +23,7 @@ Challenges will be added every Tuesday during our Live Code Tuesday at 17:00CET
 
 - [Challenge 1](./2023/Challenge-1/README.md) - [Livestream here](https://www.youtube.com/watch?v=WqltnlpguOY)
 - [Challenge 2](./2023/Challenge-2/README.md) - [Livestream here](https://www.youtube.com/watch?v=9XAjwWmMBFU)
-- Challenge 3 - TBA - [Livestream here](https://www.youtube.com/watch?v=p9tl8K5TeiI)
+- [Challenge 3](./2023/Challenge-3/README.md) - [Livestream here](https://www.youtube.com/watch?v=p9tl8K5TeiI)
 - Challenge 4 - TBA
 
 ## Prizes
