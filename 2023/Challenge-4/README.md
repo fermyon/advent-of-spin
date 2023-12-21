@@ -1,6 +1,6 @@
 # Challenge 4 - 2023
 
-Welcome to the forth, and last, challenge of Fermyon’s Advent of Spin 2023! 🥳
+Welcome to the fourth and final, challenge of Fermyon’s Advent of Spin 2023! 🥳
 
 If this is your first time with Spin, [Challenge 1 from 2022](../../2022/CHALLENGE-1/README.md), is the perfect introduction. Also, feel free to try all the other challenges from 2022 and 2023.
 
@@ -10,15 +10,17 @@ The elves will hang out in the Fermyon [Discord](https://discord.gg/AAFNfS7NGf) 
 
 ## Spec
 
-Soon it's Christmas, and because of a well-planned Christmas gifts operation this year, the elves have found themselves with some spare time before Christmas!
+Christmas is almost here, and because of a well-planned gifting operation this year, the elves have found themselves with some spare time before Christmas!
 
-To not have them dwell away all day long, napping around in the hay with the Reindeers, eating too much Christmas pudding, or sugar canes, we need to keep them engaged with something. Your challenge this week is to build help the elves solve a game of [Bulls'n'Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows). The game is pretty straight forward, the game master (Fermyon Cloud in this case), decides a secret combination of three (3) digits, where each digit is between the value of 0 and 4 (both included). None of the values are use more than once in the secret combination. Please note, this is a slight variation over the usual rules, you'll see described in the Wiki article above. Main reason is to make sure you can solve it within the service limits for Fermyon Cloud, which currently exists [Quota and Limits](https://developer.fermyon.com/cloud/faq#quota-limits).
+The elves are now idle all day, napping in the hay with the Reindeers or eating too much Christmas pudding. So we need to keep them engaged with something. Your challenge this week is to help the elves solve a game of [Bulls'n'Cows](https://en.wikipedia.org/wiki/Bulls_and_Cows). 
 
-Now it's your job to help the elves, by writing a Spin application, which can guess the secret combination provided by the Cloud.
+The game is pretty straight forward, the game master (Fermyon Cloud in this case), decides a secret combination of three (3) digits, where each digit is between the value of 0 and 4 (both included). None of the values are use more than once in the secret combination. Please note, this is a slight variation over the usual rules, you'll see described in the Wiki article above. Main reason is to make sure you can solve it within the service limits for Fermyon Cloud, which currently exists [Quota and Limits](https://developer.fermyon.com/cloud/faq#quota-limits).
 
-This challenge is a bit more complicated in how we validate your submission, so bear over with us. We have deployed an application - the game - at `https://bulls-n-cows.fermyon.app/`. You may find an intriguing UI there, but it doesn't work yet (The DevRel elves didn't have time to complete it yet!). So what you need to do is to use the api at `https://bulls-n-cows.fermyon.app/api` to play the game.
+Now it's your job to help the elves, by writing a Spin application, which can guess the secret combination 🕵️‍♀️
 
-First call to the api must contain your first guess as a URL parameter called `guess` - e.g., `curl https://bulls-n-cows.fermyon.app/api?guess=012`.
+This challenge is a bit more complicated in how we validate your submission, so bear over with us. We have deployed an application - the game - at `https://bulls-n-cows.fermyon.app/`. You may find an intriguing UI there, but it doesn't work yet (The DevRel elves didn't have time to complete it yet!). So what you need to do is to use the API at `https://bulls-n-cows.fermyon.app/api` to play the game.
+
+First call to the API must contain your first guess as a URL parameter called `guess` - e.g., `curl https://bulls-n-cows.fermyon.app/api?guess=012`.
 You will receive a response in the following format (sample data):
 
 ```json
@@ -58,7 +60,7 @@ Once the application is deployed, enter the endpoint as serviceUrl below and run
 hurl --error-format long --variable serviceUrl="https://x-mas.fermyon.app" submit.hurl
 ```
 
-Please note for this challenge, the `hurl` test is simple to get to pass, but we will go and check on the Bulls'n'Cows app, if you did complete the challenge, and solved a game :-) No cheating!!
+Please note for this challenge, the `hurl` test is simple to pass. We will check the Bulls'n'Cows app to see if you completed the challenge, and solved a game. No cheating 😉
 
 Remember, if you want to participate in the swag award, go [here](../../README.md#Prizes) and check out how to participate.
 
