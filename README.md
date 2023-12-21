@@ -24,7 +24,7 @@ Challenges will be added every Tuesday during our Live Code Tuesday at 17:00CET
 - [Challenge 1](./2023/Challenge-1/README.md) - [Livestream here](https://www.youtube.com/watch?v=WqltnlpguOY)
 - [Challenge 2](./2023/Challenge-2/README.md) - [Livestream here](https://www.youtube.com/watch?v=9XAjwWmMBFU)
 - [Challenge 3](./2023/Challenge-3/README.md) - [Livestream here](https://www.youtube.com/watch?v=p9tl8K5TeiI)
-- Challenge 4 - TBA
+- [Challenge 4](./2023/Challenge-4/README.md) - Livestream TBA
 
 ## Prizes
 
@@ -68,4 +68,3 @@ Want practice for this year's challenge? Try out last year's challenges and let 
 - [Challenge 5](./2022/CHALLENGE-5/README.md)
 - [Challenge 6](./2022/CHALLENGE-6/README.md)
 - [Challenge 7](./2022/CHALLENGE-7/README.md)
-
