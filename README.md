@@ -20,7 +20,12 @@ Simply click on each challenge, and follow the instructions.
 
 ## Challenges
 
-Challenges will be added every Monday during our Fermyon Livestream at 17:00CET 
+- [Challenge 1](./2024/Challenge-1/README.md)
+- Challenge 2 (TBD)
+- Challenge 3 (TBD)
+- Challenge 4 (TBD)
+
+Challenges will be added every Monday during our Fermyon Livestream at 17:00CET (Starting 9th of December).
 
 ## Prizes
 
