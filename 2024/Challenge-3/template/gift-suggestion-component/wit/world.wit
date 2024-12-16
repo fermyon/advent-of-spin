@@ -1,0 +1,14 @@
+package components:advent-of-spin@0.1.0;
+
+world gift-suggestions-generator {
+    export generator;
+}
+
+interface generator {
+    record suggestions {
+       name: string,
+       suggestions: string, 
+    }
+
+    suggest: func(name: string, age: u8, likes: string) -> result<suggestions, string>;
+}
