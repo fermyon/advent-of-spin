@@ -14,7 +14,7 @@ HTTP 200
 [Asserts]
 header "Content-Type" == "application/json"
 jsonpath "$.name" == "Riley Parker"
-jsonpath "$.suggestions" != null
+jsonpath "$.giftSuggestions" != null
 
 # Test 3: Passing a wrong payload to gift suggestions endpoint
 POST http://localhost:3000/api/generate-gift-suggestions
